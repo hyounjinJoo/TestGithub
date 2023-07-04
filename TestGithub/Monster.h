@@ -9,5 +9,10 @@ private:
 	int Test() {
 		return 0;
 	}
+
+private:
+	bool test;
+  
+  
 };
 
